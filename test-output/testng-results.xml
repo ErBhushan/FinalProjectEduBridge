@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-25T13:29:53 IST" name="Default suite" finished-at="2023-10-25T13:30:10 IST" duration-ms="16864">
+    <groups>
+    </groups>
+    <test started-at="2023-10-25T13:29:53 IST" name="Default test" finished-at="2023-10-25T13:30:10 IST" duration-ms="16864">
+      <class name="testCases.LoginTC">
+        <test-method is-config="true" signature="setupClass()[pri:0, instance:testCases.LoginTC@3f191845]" started-at="2023-10-25T13:29:53 IST" name="setupClass" finished-at="2023-10-25T13:30:09 IST" duration-ms="16495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method signature="credLogin()[pri:0, instance:testCases.LoginTC@3f191845]" started-at="2023-10-25T13:30:10 IST" name="credLogin" finished-at="2023-10-25T13:30:10 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginTC@3f191845]" started-at="2023-10-25T13:30:10 IST" name="teardown" finished-at="2023-10-25T13:30:10 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.LoginTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
