@@ -6,6 +6,7 @@
       <class name="testCases.LoginTC">
         <methods>
           <include name="setupClass"/>
+          <include name="TakeScreenshot"/>
           <include name="teardown"/>
           <include name="credLogin"/>
         </methods>
